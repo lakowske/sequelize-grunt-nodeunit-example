@@ -1,0 +1,22 @@
+{
+  "name": "2013NM-manual-distress-fix",
+  "version": "0.0.0",
+  "description": "fixes manual distress",
+  "main": "distress.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seth Lakowske",
+  "license": "Mandli",
+  "dependencies": {
+    "sequelize": "~1.7.0",
+    "sqlite3": "~2.2.0",
+    "async": "~0.2.10",
+    "uuid": "~1.4.1"
+  },
+  "devDependencies": {
+    "nodeunit": "~0.8.6",
+    "grunt": "~0.4.2",
+    "grunt-contrib-nodeunit": "~0.3.2"
+  }
+}
