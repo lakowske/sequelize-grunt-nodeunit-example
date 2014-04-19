@@ -1,13 +1,13 @@
 {
-  "name": "2013NM-manual-distress-fix",
+  "name": "sequelize-grunt-nodunit-example"
   "version": "0.0.0",
-  "description": "fixes manual distress",
-  "main": "distress.js",
+  "description": "tests sequelize"
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Seth Lakowske",
-  "license": "Mandli",
+  "license": "GPLv2",
   "dependencies": {
     "sequelize": "~1.7.0",
     "sqlite3": "~2.2.0",
